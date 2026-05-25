@@ -29,28 +29,34 @@
 - 🎓 I'm currently learning `Computer Science` and `Software Engineering`
 - 🤓 Always `learning new things`
 - 🎯 I'm currently open for a new `job opportunity` — [MY RESUME](#)
-- 💥 You can visit [MY WEBSITE](#)
+- 💥 You can visit [MY WEBSITE](https://sourov-cb.vercel.app/)
 - 📍 Based in **Thakurgaon, Rangpur, Bangladesh**
 
 ---
 
 ## 🏗️ Featured Projects
 
-<div align="center">
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| 🏥 **MediQueue** | Tutor booking platform with smart slot logic, CRUD, JWT auth & dark/light theme | Next.js · Express.js · MongoDB · BetterAuth · JWT | [🔗 Live](https://mediqueue-orcin.vercel.app/) |
+| 🌍 **Wanderlust** | Full-stack travel booking app with auth, destination filters, booking & cancel flows | Next.js · Express.js · MongoDB · BetterAuth · JWT | [🔗 Wanderlust](https://wanderlust-pearl-two.vercel.app/) |
+| 🐄 **Livestock Booking Platform** | Full-stack livestock marketplace with Google OAuth & Vercel deployment | Next.js · BetterAuth · MongoDB Atlas | [🔗 QurbaniHat](https://a-8-livestock-booking-platform.vercel.app/) |
+| 🤝 **KeenKeeper** | Friend relationship manager with timeline & React Context | Next.js · React Context · react-hot-toast | [🔗 KeenKeeper](https://keep-keeper-ph.vercel.app/) |
+| 📚 **Book Vibe** | Book management app with loaders & localStorage | React Router v7 · Context API | [🔗 Book-Vibe](https://book-vibe-explore.vercel.app/) |
+| 📚 **English Janala** | API recap project — browse English learning content with clean UI | React · REST API · Vercel | [🔗 Eng_Janala](https://module-29-api-recap-with-english-ja.vercel.app/) |
+| 🌐 **Country Explorer** | Country search & filter app with localStorage persistence | React · Tailwind CSS · Vercel | [🔗 CountryExplorer](https://enjoy-exploring-country.vercel.app/) |
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🌍 **Wanderlust** | Full-stack travel booking app with auth, destination filters, booking & cancel flows | Next.js · Express.js · MongoDB · BetterAuth · JWT |
-| 🐄 **Livestock Booking Platform** | Full-stack livestock marketplace with Google OAuth & Vercel deployment | Next.js · BetterAuth · MongoDB Atlas |
-| 🤝 **KeenKeeper** | Friend relationship manager with timeline & React Context | Next.js · React Context · react-hot-toast |
-| 🍔 **Foody** | Food ordering app with cart & filters | Next.js · Tailwind CSS |
-| 📚 **Book Vibe** | Book management app with loaders & localStorage | React Router v7 · Context API |
-| 🤖 **AI Tools Directory** | AI tools listing powered by Server Actions & JSON storage | Next.js · Server Actions |
-| 🌐 **Country Explorer** | Country search & filter app with localStorage persistence | React · Tailwind CSS · Vercel |
 
-</div>
+<--
+<div>
+https://sourov-s-english-whisper.vercel.app/
+| 🍔 **Foody** | Food ordering app with cart & filters | Next.js · Tailwind CSS | [🔗 Demo](#) |
+| 🤖 **AI Tools Directory** | AI tools listing powered by Server Actions & JSON storage | Next.js · Server Actions | [🔗 Demo](#) |
+<div>  -->
 
----
+---  
+
+
 
 ## 🎨 Frontend
 
