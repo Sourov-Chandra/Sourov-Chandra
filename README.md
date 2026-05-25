@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-chandra-barmon)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sourov_tpi)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sourov.chandra.barmon.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovcb76@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourovcb76@gmail.com)
 
 </div>
 
@@ -114,7 +114,7 @@ https://sourov-s-english-whisper.vercel.app/
 
 ---
 
-<details open>
+<!-- <details open>
 <summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 <p align="center">
@@ -126,7 +126,7 @@ https://sourov-s-english-whisper.vercel.app/
 
 > **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-</details>
+</details> -->
 
 ---
 
@@ -141,7 +141,9 @@ https://sourov-s-english-whisper.vercel.app/
 
 ---
 
-<details open>
+<!-- <div>
+
+	<details open>
 <summary><h3>🏆 Git Profile Trophies</h3></summary>
 
 <p align="center">
@@ -151,9 +153,14 @@ https://sourov-s-english-whisper.vercel.app/
 </p>
 
 </details>
+</div> -->
 
 ---
 
+
+<!-- <div>
+
+	
 ## 🐍 A Snake Eating My Contributions Graph
 
 
@@ -172,3 +179,4 @@ https://sourov-s-english-whisper.vercel.app/
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>
+</div> -->
